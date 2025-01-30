@@ -1,0 +1,150 @@
+<Card style={{ width: "18rem" }} onClick={getInfo}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://cdn.costumewall.com/wp-content/uploads/2024/09/billy-butcher-costume.jpg"
+            />
+            <Card.Body>
+              <Card.Title>Billy Butcher</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://www.usaleatherfactory.com/wp-content/uploads/2023/06/The-Boys-Hughie-Campbell-Jack-Quaid-Cotton-Jacket-700x838.jpg"
+            />
+            <Card.Body>
+              <Card.Title>Hughie Campbell</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://i.redd.it/lezseoh2vbaa1.jpg"
+            />
+            <Card.Body>
+              <Card.Title>Mother's Milk</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://i.insider.com/5f763f1a0ab50d00184adb01?width=800&format=jpeg&auto=webp"
+            />
+            <Card.Body>
+              <Card.Title>Kimiko</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://hips.hearstapps.com/hmg-prod/images/tomer-capone-frenchie-the-boys-jpg-1657210446.jpg?crop=0.342xw:0.257xh;0.265xw,0.0811xh&resize=980:*"
+            />
+            <Card.Body>
+              <Card.Title>Frenchie</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/e68a2c53_0ed5_4979_bb24_a1842f76122e.jpeg"
+            />
+            <Card.Body>
+              <Card.Title>Homelander</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Annie_January_Erin_Moriarty.webp/365px-Annie_January_Erin_Moriarty.webp.png"
+            />
+            <Card.Body>
+              <Card.Title>Annie January (Starlight)</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://preview.redd.it/castle-a-train-would-be-a-perfect-bundle-v0-4zbuu19ihxi91.jpg?width=640&crop=smart&auto=webp&s=7aba1ccc20ec805f56647e2b7e90bbdb3aa103a3"
+            />
+            <Card.Body>
+              <Card.Title>A-Train</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://i.namu.wiki/i/U5gEDsBTgkMsFSvgNYKUp1hQBSt8bGhxSp58iaRhG6uPL8JUzpGs5u6S45aMAHHouFy32VkAogHG9UNnsmrOSA.webp"
+            />
+            <Card.Body>
+              <Card.Title>The Deep</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://preview.redd.it/who-is-stronger-sam-or-queen-maeve-v0-e9zjaiyq1txb1.jpg?width=1080&crop=smart&auto=webp&s=2b104e078113e6c5ade9fff555ea2fb04a5e00d4"
+            />
+            <Card.Body>
+              <Card.Title>Queen Meave</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://www.gamereactor.com.tr/media/56/blacknoiractor_4295693b.jpg"
+            />
+            <Card.Body>
+              <Card.Title>Black Noir</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2020/09/the-boys-stormfront-0923201.jpg"
+            />
+            <Card.Body>
+              <Card.Title>Stormfront</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://hips.hearstapps.com/hmg-prod/images/susan-heyward-the-boys-season-4-66915cb70951e.jpg?crop=0.418xw:1.00xh;0.362xw,0&resize=1200:*"
+            />
+            <Card.Body>
+              <Card.Title>Sister Sage</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://www.hollywoodreporter.com/wp-content/uploads/2024/07/Valerie-Curry-The-Boys-Publicity-H-2024.jpg?w=1296"
+            />
+            <Card.Body>
+              <Card.Title>Firecracker</Card.Title>
+            </Card.Body>
+          </Card>
+          <Card style={{ width: "18rem" }}>
+            <Card.Img
+              className="card-img"
+              variant="top"
+              src="https://m.media-amazon.com/images/M/MV5BZWRjZTBmMDEtZjgxNy00ZGJkLWFhNzktNGEyOTM2NmViZTVkXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_QL75_UY281_CR0,0,500,281_.jpg"
+            />
+            <Card.Body>
+              <Card.Title>Translucent</Card.Title>
+            </Card.Body>
+          </Card>

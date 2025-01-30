@@ -1,0 +1,96 @@
+.home-back {
+  background-image: url("https://wallpapercat.com/w/full/9/5/0/16162-1920x1213-desktop-hd-the-boys-background-photo.jpg"); /* Arkaplan resmini ayarlar */
+  background-size: cover;  /* Resmi kapsama şeklinde boyutlandırır */
+  background-position: top;  /* Resmin konumunu üstte sabitler */
+  background-repeat: no-repeat;  /* Resmin tekrarlanmasını önler */
+  margin: 0;  /* Margin'i sıfırlar */
+  text-align: center;  /* Metin hizalamasını ortalar */
+  background-attachment: fixed;  /* Arkaplanı sabitler, kaydırma sırasında yerinde kalır */
+}
+.s1-back {
+  background-image: url("https://images6.alphacoders.com/136/thumb-1920-1366126.jpg"); /* Arkaplan resmi */
+  background-size: cover;  /* Resmi kapsama şeklinde boyutlandırır */
+  background-position: top;  /* Resmin konumunu üstte sabitler */
+  background-repeat: no-repeat;  /* Resmin tekrarlanmasını önler */
+  height: 100vh;  /* Yüksekliği ekranın tamamı olarak ayarlar */
+  text-align: center;  /* Metin hizalamasını ortalar */
+  background-attachment: fixed;  /* Arkaplanı sabitler, kaydırma sırasında yerinde kalır */
+}
+.s2-back {
+  background-image: url("https://wallpapers.com/images/hd/the-boys-billie-butcher-poster-qlme4t8cftun2zxg.jpg"); /* Arkaplan resmi */
+  background-size: cover;  /* Resmi kapsama şeklinde boyutlandırır */
+  background-position: top;  /* Resmin konumunu üstte sabitler */
+  background-repeat: no-repeat;  /* Resmin tekrarlanmasını önler */
+  height: 100vh;  /* Yüksekliği ekranın tamamı olarak ayarlar */
+  text-align: center;  /* Metin hizalamasını ortalar */
+  background-attachment: fixed;  /* Arkaplanı sabitler, kaydırma sırasında yerinde kalır */
+}
+.s3-back {
+  background-image: url("https://images4.alphacoders.com/134/thumb-1920-1348444.jpg"); /* Arkaplan resmi */
+  background-size: cover;  /* Resmi kapsama şeklinde boyutlandırır */
+  background-position: top;  /* Resmin konumunu üstte sabitler */
+  background-repeat: no-repeat;  /* Resmin tekrarlanmasını önler */
+  height: 100vh;  /* Yüksekliği ekranın tamamı olarak ayarlar */
+  text-align: center;  /* Metin hizalamasını ortalar */
+  background-attachment: fixed;  /* Arkaplanı sabitler, kaydırma sırasında yerinde kalır */
+}
+.s4-back {
+  background-image: url("https://images2.alphacoders.com/111/1116552.jpg"); /* Arkaplan resmi */
+  background-size: cover;  /* Resmi kapsama şeklinde boyutlandırır */
+  background-position: top;  /* Resmin konumunu üstte sabitler */
+  background-repeat: no-repeat;  /* Resmin tekrarlanmasını önler */
+  height: 100vh;  /* Yüksekliği ekranın tamamı olarak ayarlar */
+  text-align: center;  /* Metin hizalamasını ortalar */
+  background-attachment: fixed;  /* Arkaplanı sabitler, kaydırma sırasında yerinde kalır */
+}
+.Home-parag {
+  margin-top: 20px;  /* Üst margin ekler */
+  background-position: center;  /* Arkaplanın konumunu ortalar */
+}
+.Home-paragtitle {
+  background-color: white;  /* Beyaz arkaplan rengi */
+  opacity: 0.8;  /* Opaklığı azaltır */
+  display: inline;  /* Elemanı satır içi blok olarak görüntüler */
+  padding: 5px;  /* İç boşluk ekler */
+}
+.Home-paragtext {
+  background-color: white;  /* Beyaz arkaplan rengi */
+  opacity: 0.8;  /* Opaklığı azaltır */
+  padding: 5px;  /* İç boşluk ekler */
+  margin-top: 10px;  /* Üst margin ekler */
+  display: flex;  /* Flex kutu modelini kullanır */
+}
+.home-button {
+  height: 10vh;  /* Yüksekliği %10 ekran yüksekliği */
+  width: 50vh;  /* Genişliği %50 ekran yüksekliği */
+}
+.card-container {
+  display: flex;  /* Flex kutu modelini kullanır */
+  justify-content: center;  /* Öğeleri yatayda ortalar */
+  gap: 20px;  /* Öğeler arasında 20 piksel boşluk bırakır */
+  padding: 20px;  /* İç boşluk ekler */
+  flex-wrap: wrap;  /* Öğeleri sarar */
+}
+.card-img {
+  width: 100%;  /* Kart genişliğine uyar */
+  height: 200px;  /* Sabit yükseklik */
+  object-fit: cover;  /* Resmi kırparak uygun şekilde ölçeklendirir */
+}
+.char-back {
+  background-image: url("https://i0.wp.com/www.lacosacine.com/wp-content/uploads/2022/07/THE-BOYS.jpeg?fit=1920%2C1080&ssl=1"); /* Arkaplan resmi */
+  background-size: cover;  /* Resmi kapsama şeklinde boyutlandırır */
+  background-position: top;  /* Resmin konumunu üstte sabitler */
+  background-repeat: no-repeat;  /* Resmin tekrarlanmasını önler */
+  margin: 0;  /* Margin'i sıfırlar */
+  text-align: center;  /* Metin hizalamasını ortalar */
+  background-attachment: fixed;  /* Arkaplanı sabitler, kaydırma sırasında yerinde kalır */
+}
+.charpic{
+  width: 100%;  /* Kart genişliğine uyar */
+  height: 200px;  /* Sabit yükseklik */
+  display: inline;
+}
+.chartitle{
+  display: block;  /* Elemanı satır içi blok olarak görüntüler */
+  padding: 5px;  /* İç boşluk ekler */
+}
